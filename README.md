@@ -1,5 +1,7 @@
 ﻿# Neo Manager Windows Forms Application
 
+![screenshot](example.PNG)
+
 The Neo Manager Windows Forms application allows you to manage secrets (SSID and password) in Python files, retrieve battery information from a server using TCP, and save/load user profiles for quick configuration. This README provides a comprehensive guide on how to use the program.
 
 ## System Requirements
